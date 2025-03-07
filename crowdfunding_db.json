@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "first_name": "Nagham",
+            "last_name": "Mohamed",
+            "email": "nagham@gmail.com",
+            "password": "123",
+            "phone": "01055874006"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Lab2 Small Project",
+            "details": "Crowd Funding Python Console App",
+            "target": "10000",
+            "start_date": "2025-03-05",
+            "end_date": "2025-03-07",
+            "owner": "nagham@gmail.com"
+        }
+    ]
+}
